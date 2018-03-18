@@ -3,7 +3,7 @@ div {
 }
 
 body {
-    background-color: #5E2C08;
+    background-color: #441e13;
 }
 
 .logoarea {
@@ -16,13 +16,15 @@ body {
 .menu {
     width:100%;
     float:left;
+    color:#fefffd;
+    background-color: #39180f;
 }
 
 .logo {
     width:200px;
     height:100px;
     float:left;
-    color:white;
+    color:#fefffd;
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -31,5 +33,43 @@ body {
     float:left;
     height:100px;
     width:700px;
-    color: #C9A15F;
+    color: #987066;
+}
+
+.about {
+    float:left;
+    height:200px;
+    width:100%;
+    background-color:#87a984;
+}
+
+.image {
+    width:250px;
+    height:200px;
+}
+
+.mainbody {
+    float:left;
+    width:100%;
+    height:100%;
+}
+
+.leftcolumn {
+    float:left;
+    height:800px;
+    width:190px;
+    background-color: #96afac;
+}
+
+.rightcolumn {
+    float:left;
+    height:800px;
+    width:900px;
+    background-color: #dbd8c5;
+}
+
+.title {
+    color:#596d6e;
+    font-weight: bold;
+    font-size: 1.8rem;
 }
