@@ -1,0 +1,44 @@
+div {
+    outline: 2px black;
+}
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: blue;
+    width: 920px;
+    height: 200px;
+}
+
+.body {
+    background-color: red;
+    width: 920px;
+    height: 600px;
+}
+
+.leftbody {
+    background-color: yellow;
+    float: left;
+    width: 380px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.rightbody {
+    background-color: yellow;
+    float:left;
+    width: 380px;
+    height: 500px;
+    margin-left: 60px;
+    margin-top:50px;
+}
+
+.footer {
+    background-color: green;
+    height: 180px;
+    width: 920px;
+}
