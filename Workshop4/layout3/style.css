@@ -1,5 +1,5 @@
 div {
-    outline: 2px black;
+    outline: solid 2px black;
 }
 .container {
     width: 920px;

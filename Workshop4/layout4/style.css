@@ -1,0 +1,69 @@
+div {
+    outline: solid 2px black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: blue;
+    width: 920px;
+    height: 200px;
+}
+
+
+
+
+.centrebox {
+    background-color: green;
+    width: 920px;
+    height: 200px;
+}
+
+.leftcentre {
+    float: left;
+    width: 415px;
+    height: 120px;
+    background-color: yellow;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.rightcentre {
+    float: left;
+    width: 415px;
+    height: 120px;
+    background-color: yellow;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+
+
+
+.footer {
+    background-color: red;
+    width: 920px;
+    height: 600px;
+}
+
+.leftfooter {
+    float: left;
+    width: 415px;
+    height: 540px;
+    background-color: yellow;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.rightfooter {
+    float: left;
+    width: 415px;
+    height: 540px;
+    background-color: yellow;
+    margin-left: 30px;
+    margin-top: 30px;
+}
