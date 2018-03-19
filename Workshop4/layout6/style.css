@@ -1,0 +1,99 @@
+div {
+    outline: solid 2px black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.headerleft {
+    background-color: blue;
+    width: 460px;
+    height: 200px;
+    float: left;
+}
+
+.headerright {
+    background-color: blue;
+    width: 460px;
+    height: 200px;
+    float: left;
+}
+
+
+
+.subheader {
+    background-color: green;
+    width: 920px;
+    height: 200px;
+    float: left;
+}
+
+
+
+
+.main {
+    background-color: red;
+    width: 920px;
+    height: 520px;
+    float: left;
+}
+
+.image1 {
+    background-color: yellow;
+    height: 200px;
+    width: 180px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.image2 {
+    background-color: yellow;
+    height: 200px;
+    width: 180px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.image3 {
+    background-color: yellow;
+    height: 200px;
+    width: 180px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.image4 {
+    background-color: yellow;
+    height: 200px;
+    width: 180px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+
+.bigimage1 {
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.bigimage2 {
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
