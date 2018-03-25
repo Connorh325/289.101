@@ -3,151 +3,172 @@ div {
 }
 
 .container {
-    
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* ---------------------------*/
 
 .layer1 {
-    
+    background-color: blue;
+    width: 920px;
+    height: 70px;
 }
 
 .layer1left {
-    
+    background-color: yellow;
+    float: left;
+    width: 320px;
+    height: 54px;
+    margin-left: 8px;
+    margin-top: 8px
 }
 
 .layer1right {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 576px;
+    height: 54px;
 }
 
 /* ---------------------------*/
 
 .layer2 {
-    
+    background-color: green;
+    height: 450px;
+    width: 920px;
+    float: left;
 }
 
 /* ---------------------------*/
 
 .layer3 {
-    
+    background-color: red;
+    height: 300px;
+    width: 920px;
+    float: left;
 }
 
 .layer3_top {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 904px;
+    height: 120px;
 }
 
-.layer3_1 {
-    
+.layer3_bottom {
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 296px;
+    height: 156px;
 }
 
-.layer3_2 {
-    
-}
 
-.layer3_3 {
-    
-}
 
 /* ---------------------------*/
 
 .layer4 {
-    
+    background-color: blue;
+    float: left;
+    height: 600px;
+    width: 920px;
 }
 
 .layer4_top{
-    
+    background-color: yellow;
+    width: 904px;
+    height: 70px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
 }
 
-.layer4_1 {
-    
+.layer4_smallbox {
+    background-color: yellow;
+    width: 220px;
+    height: 163px;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
 }
 
-.layer4_2 {
-    
-}
-
-.layer4_3 {
-    
-}
-
-.layer4_4 {
-    
-}
-
-.layer4_5 {
-    
-}
-
-.layer4_6 {
-    
-}
-
-.layer4_7 {
-    
-}
-
-.layer4_8 {
-    
-}
-
-.layer4_9 {
-    
-}
-
-.layer4_10 {
-    
-}
-
-.layer4_11 {
-    
-}
-
-.layer4_12 {
-    
-}
 
 /* ---------------------------*/
 
 .layer5 {
-    
+    background-color: green;
+    width: 920px;
+    height: 600px;
+    float: left;
 }
 
 .layer5_top {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 904px;
+    height: 120px;
 }
 
-.layer5_1 {
-    
+.layer5_bottom {
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 296px;
+    height: 456px;
 }
 
-.layer5_2 {
-    
-}
-
-.layer5_3 {
-    
-}
 
 /* ---------------------------*/
 
 .layer6 {
-    
+    background-color: red;
+    width: 920px;
+    height: 600px;
+    float: left;
 }
 
 .layer6_top {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 904px;
+    height: 100px;
 }
 
 .layer6_left {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 600px;
+    height: 456px;
 }
 
 .layer6_right {
-    
+    background-color: yellow;
+    float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 296px;
+    height: 156px;
 }
 
 /* ---------------------------*/
 
 .layer7 {
-    
+    background-color: blue;
+    height: 70px;
+    width: 920px;
+    float: left;
 }
