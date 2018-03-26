@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    outline: 2px solid lime;
+}
+
+/* ------------------------------ */ 
+
+
+.header {
+    background-color: #2D2F3B;
+    color: #FFFFFF;
+    height: 90px;
+}
+
+.nav {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    float: left;
+    margin-top: 35px;
+    font-size: 1.4rem;
+}
+
+
+.salmon {
+    color: #f06c64;
+}
+
+.links {
+    float: right;
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #4B4E61;
+}
+
+/* descedant of link so that the automatic href styling is removed from the text*/ 
+
+.links a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.links a:hover {
+    color: #f06c64;
+}
+
+/* ------------------------------ */ 
+
+
+.banner {
+    background-color: #f06c64;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.banner img {
+    max-width: 780px;
+    width: 90%;
+}
+
+/* ------------------------------ */ 
+
+
+.services {
+    height: 500px;
+}
+
+.services_header {
+    color: #666d89;
+    padding: 50px 50px 30px 50px;
+}
+
+.services_header h2 {
+    font-size: 1.5rem;
+    font-style: bold;
+}
+
+.services_header p {
+    font-size: 1.2rem;
+}
+
+.services_info {
+    color: #666d89;
+    height: 105px;
+    width: 310px;
+}
+
+
+/* ------------------------------ */ 
+
+
+.portfolio {
+    
+}
